@@ -5,4 +5,4 @@ This is a simple chatbot coded in python using the module tkinter. You just have
 Python
 
 # License
-This Chatbot is available as open source under the terms of the 
+This Chatbot is available as open source under the terms of the [MIT License](LICENSE).
