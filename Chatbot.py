@@ -1,7 +1,6 @@
 # Library
 from tkinter import *
 
-#Create a tkinter object (Parent Window)
 root=Tk()
 
 #This give the window a title
