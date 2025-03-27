@@ -6,7 +6,6 @@ root=Tk()
 #This give the window a title
 root.title('Chatbot')
 
-#Icon
 root.iconbitmap("D:\Vs Code Python\chatbot.ico")
 
 lst1 = ['Hello','hello','hi','Hi','Bonjour','bonjour','Hola','hola','hey','Hey']
