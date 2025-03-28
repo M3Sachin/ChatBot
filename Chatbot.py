@@ -1,11 +1,13 @@
 # Library
 from tkinter import *
 
+#Create a tkinter object (Parent Window)
 root=Tk()
 
 #This give the window a title
 root.title('Chatbot')
 
+#Icon
 root.iconbitmap("chatbot.ico")
 
 lst1 = ['Hello','hello','hi','Hi','Bonjour','bonjour','Hola','hola','hey','Hey']
