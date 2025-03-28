@@ -79,7 +79,7 @@ def send():
 	elif e.get() in lst6:
 		txt.insert(END,"\n"+"Bot -->My name is ZenX and I'm a bot.\n       I was created by Sir Sachin at ZenX House.\n       I'm written in python programming language using tkinter module and\n       some good algorithms.Basically I uses AI for answering your questions.\n       I'm here to help you.\n       You can also simply talk to me.")
 
-	elif e.get() in lst7:#Add instagram link later.
+	elif e.get() in lst7:
 		txt.insert(END,"\n"+"Bot -->I was created by Sachin at ZenX house.\n       You can search him using this link:-https://twitter.com/MrPatmer")
 
 	elif e.get() in lst8:
