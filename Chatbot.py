@@ -1,6 +1,9 @@
 # Library
 from tkinter import *
 
+import time
+
+ print("Hello")
 root=Tk()
 
 #This give the window a title
