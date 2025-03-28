@@ -10,7 +10,6 @@ root.title('Chatbot')
 #Icon
 root.iconbitmap("chatbot.ico")
 
-
 lst1 = ['Hello','hello','hi','Hi','Bonjour','bonjour','Hola','hola','hey','Hey']
 lst2 = ['Namaste','namaste']
 lst3 = ['how are you','How are you','how are you?','How are you?','how are u','How are u','how are u?',
