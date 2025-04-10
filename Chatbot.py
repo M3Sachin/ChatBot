@@ -130,7 +130,8 @@ def send():
 		txt.insert(END,"\n"+"Bot -->My name is ZenX")
 
 	elif e.get() in lst23:
-		txt.insert(END,"\n"+"Bot -->Why? Ok,let me tell u a joke:-\n       My friend was explaining electricity to me, but I was like,'Watt'?")
+		txt.insert(END,"\n"+"Bot -->Why? Ok,let me tell u a joke:-\n       "
+							"My friend was explaining electricity to me, but I was like,'Watt'?")
 
 	elif e.get() in lst24:
 		txt.insert(END,"\n"+"Bot -->Um, Outer Space.")
@@ -152,7 +153,7 @@ txt = Text(root)
 txt.grid(row = 0,column = 0, columnspan = 2)
 
 e = Entry(root,width = 100)
-send = Button(root,text = "Send",command=send).grid(row = 1,column = 1)
+Button(root, text="Send", command=send).grid(row=1, column=1)
 e.grid(row = 1,column = 0)
 
 root.mainloop()
