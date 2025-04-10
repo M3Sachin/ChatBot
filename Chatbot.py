@@ -130,7 +130,8 @@ def send():
 		txt.insert(END,"\n"+"Bot -->My name is ZenX")
 
 	elif e.get() in lst23:
-		txt.insert(END,"\n"+"Bot -->Why? Ok,let me tell u a joke:-\n       My friend was explaining electricity to me, but I was like,'Watt'?")
+		txt.insert(END,"\n"+"Bot -->Why? Ok,let me tell u a joke:-\n       "
+							"My friend was explaining electricity to me, but I was like,'Watt'?")
 
 	elif e.get() in lst24:
 		txt.insert(END,"\n"+"Bot -->Um, Outer Space.")
